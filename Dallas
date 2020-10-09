@@ -8,7 +8,4 @@ ls: cannot open directory .: Permission denied
 [alino@ip-172-31-92-148 ec2-user]$ ls
 ls: cannot open directory .: Permission denied
 [alino@ip-172-31-92-148 ec2-user]$ sudo ls
-training
-[alino@ip-172-31-92-148 ec2-user]$ cd
-[alino@ip-172-31-92-148 ~]$ ll
-
+traini
